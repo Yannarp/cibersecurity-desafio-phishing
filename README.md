@@ -1,5 +1,11 @@
 <b><u>Phishing para captura de senhas do Facebook</b></u>
 
+<b>Ferramentas</b>
+
+<i>Kali Linux<i>
+
+<i>setoolkit</i>
+
 <b>Configurando o Phishing no Kali Linux</b>
 
 Acesso root: sudo su
